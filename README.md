@@ -1,4 +1,4 @@
-# Hi, I'm Animesh 👋
+# Hi, I'm Animesh
 
 **Senior Engineering Manager at [TurboHire](https://turbohire.co)** · Hyderabad, India
 
