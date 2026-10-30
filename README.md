@@ -5,7 +5,7 @@
 I build and lead engineering for distributed B2B SaaS systems: identity and access management, event-driven automation, and third-party integrations. I joined TurboHire as one of its first ten employees, grew from junior engineer to Senior Engineering Manager, and still write production code every week.
 
 ### 🛠️ What I've built
-- **Identity platform:** a standalone identity service on .NET Core and Duende IdentityServer with OAuth 2.0, OpenID Connect, SAML SSO and RBAC. It averages ~70 ms response time, and every client application moved to it smoothly.
+- **Identity platform:** a standalone identity service on .NET Core and Duende IdentityServer with OAuth 2.0, OpenID Connect, SAML SSO and RBAC. It averages ~70 ms response time, and every client moved to it smoothly.
 - **Job Automation engine:** event-driven .NET Core microservices on Azure Functions, GCP Task Queues and Azure Service Bus, processing **100K+ events a day**.
 - **Integrations platform:** **20+ production integrations** with assessment, background verification, e-signature and job-board partners, plus a self-serve marketplace where partners go live without engineering work.
 - **Offer Letter Suite:** a formula-driven offer engine behind **150K+ offer letters** generated and signed in the platform.
